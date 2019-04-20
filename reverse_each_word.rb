@@ -1,5 +1,5 @@
 require 'pry'
 
 def reverse_each_word(string)
-  string.split(" ")
+  sentence_array = string.split(" ")
 end
